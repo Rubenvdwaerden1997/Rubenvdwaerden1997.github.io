@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /_pages/aboutme/
 ---
 
 # Ruben van der Waerden
