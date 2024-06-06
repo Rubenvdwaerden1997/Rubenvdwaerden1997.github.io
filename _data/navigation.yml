@@ -2,8 +2,9 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://rubenvdwaerden1997.github.io/_pages/aboutme/
+  - title: "About me"
+    url: /_pages/aboutme/
+    #url: https://rubenvdwaerden1997.github.io/_pages/aboutme/
   - title: "Articles"
     url: https://www.researchgate.net/profile/Ruben-Van-Der-Waerden
   # - title: "Sample Posts"
