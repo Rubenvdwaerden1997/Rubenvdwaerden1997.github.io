@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /_pages/aboutme/
+permalink: /aboutme/
 ---
 
-# Ruben van der Waerden
+## Ruben van der Waerden
 
 Ruben van der Waerden (1997) is a PhD candidate at the CARA Lab as part of the Diagnostic Image Analysis Group. He completed both his Bachelor's Degree in Biomedical Engineering and Master's Degree in Medical Engineering at the Technical University of Eindhoven.
 
